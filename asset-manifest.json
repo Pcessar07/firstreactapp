@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/firsteractapp/static/css/main.073c9b0a.css",
-    "main.js": "/firsteractapp/static/js/main.6f8bcef8.js",
-    "static/js/787.7b64073a.chunk.js": "/firsteractapp/static/js/787.7b64073a.chunk.js",
-    "index.html": "/firsteractapp/index.html",
-    "main.073c9b0a.css.map": "/firsteractapp/static/css/main.073c9b0a.css.map",
-    "main.6f8bcef8.js.map": "/firsteractapp/static/js/main.6f8bcef8.js.map",
-    "787.7b64073a.chunk.js.map": "/firsteractapp/static/js/787.7b64073a.chunk.js.map"
+    "main.css": "/moviebrowser2.0/static/css/main.073c9b0a.css",
+    "main.js": "/moviebrowser2.0/static/js/main.eeae68e1.js",
+    "static/js/787.7b64073a.chunk.js": "/moviebrowser2.0/static/js/787.7b64073a.chunk.js",
+    "index.html": "/moviebrowser2.0/index.html",
+    "main.073c9b0a.css.map": "/moviebrowser2.0/static/css/main.073c9b0a.css.map",
+    "main.eeae68e1.js.map": "/moviebrowser2.0/static/js/main.eeae68e1.js.map",
+    "787.7b64073a.chunk.js.map": "/moviebrowser2.0/static/js/787.7b64073a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6f8bcef8.js"
+    "static/js/main.eeae68e1.js"
   ]
 }
